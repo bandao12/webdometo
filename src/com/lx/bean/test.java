@@ -8,4 +8,7 @@ package com.lx.bean;/**
 
  */
 public class test {
+    public static void main(String[] args) {
+
+    }
 }
